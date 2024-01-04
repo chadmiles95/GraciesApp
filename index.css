@@ -1,0 +1,43 @@
+ h1{
+            margin: 0;
+        }
+        section{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            margin: 0;
+        }
+        
+        
+        #fetchDogButton{
+            color: blue;
+            background: Red;
+            padding: 2em 1em;
+            font-weight: 400;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri;
+           
+            border-radius: 50%;
+            text-align: center;
+            margin-bottom: 1em;
+            margin-top: 1em;
+            
+            
+        
+        }
+        body{
+            margin: 0;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri;
+            background-color: violet;
+        }
+        #main-image{
+            display: block;
+            
+            width: 25em;
+            height: 25em;
+            text-align: center;
+            object-fit: contain,cover;
+            border-radius: 50%;
+            
+        }
